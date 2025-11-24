@@ -1,1 +1,45 @@
 
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Output files
+*.xlsx
+*.csv
+all_output.xlsx
+one_percent_output.xlsx
+
+# Local config
+config.json
+settings.json
