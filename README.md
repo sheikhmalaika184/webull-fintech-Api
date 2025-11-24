@@ -27,7 +27,16 @@ This allows you to track short-term market movement and build simple analytics o
 ---
 
 ## Output
-All extracted data is saved in an Excel file
+All extracted data is saved in an Excel file:
+1. all_output.xlsx
+
+---
+
+## Installation Steps
+1. Clone the repo and install dependencies:
+2. git clone https://github.com/sheikhmalaika184/webull-fintech-Api.git
+3. cd webull-fintech-Api
+4. pip install -r requirements.txt 
 
 ---
 
